@@ -1,0 +1,1 @@
+I'll be making a webpage using HTML following the course from The Odin Project, by doing this i'll be testing my knowledge in the basics of using HTML for different projects.
