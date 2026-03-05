@@ -1,0 +1,37 @@
+* {
+    background-color: #eeeaea;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    background-color: #fff;
+    padding: 10px;
+    font-family: "Arial", sans-serif;
+    font-weight: 400;
+    border: solid 1px;
+}
+
+.recipes {
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+
+.box {
+    background-color: white;
+    display: inline-block;
+    width: 250px;
+    height: auto;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 1px;     
+}
